@@ -9,3 +9,6 @@ https://github.com/miguelgrinberg/flasky.
 
 # Activity 2
 ![image](https://github.com/Namira-Kamal/ECE444-F2023-Lab1/assets/102487879/679b46bc-2980-41de-89e0-eb7269d069a9)
+
+# Activity 3
+![image](https://github.com/Namira-Kamal/ECE444-F2023-Lab1/assets/102487879/0251f1b4-6ad2-4249-b691-fe232cdaa307)
